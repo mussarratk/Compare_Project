@@ -5,38 +5,26 @@
 * Used Python 3.8 AzureML - azureml.core - SDK V1
   
 ------------------------------------------------------------------------------------------
+- compute cpu
+![image](https://github.com/user-attachments/assets/2cacaab3-5002-437d-89d1-ef0ada89a1e6)
+- Notebook - sdk
+![image](https://github.com/user-attachments/assets/fc7c3357-6523-466a-86bc-6254c16f0d60)
+ - Jobs
+![image](https://github.com/user-attachments/assets/f8bcd366-d971-4f3a-844a-fd847be80b66)
 
-![image](https://github.com/user-attachments/assets/83826743-f116-4b51-9770-52d083aea118)
-![image](https://github.com/user-attachments/assets/ca5828af-c9b5-45b2-a06c-a7aa65d8c418)
-![image](https://github.com/user-attachments/assets/413132c0-eb46-43a4-924c-0e67b9313cf2)
+- experiment
+![image](https://github.com/user-attachments/assets/789383a6-2a9f-4440-925f-b7360b3d8c7d)
+- Metrics
+![image](https://github.com/user-attachments/assets/d84db244-0aa1-4c3d-aed7-46be9c9bb810)
 
-job run
-
-![image](https://github.com/user-attachments/assets/2078d0bd-3aa4-447d-b66b-0d871bb794ef)
-
-nb
-
-![image](https://github.com/user-attachments/assets/06e87a69-4cba-4d2a-a433-bf22d65a043a)
-![image](https://github.com/user-attachments/assets/538634d0-57e5-44d8-92d6-62739926127e)
-![image](https://github.com/user-attachments/assets/8f0ec45a-e0f9-49f7-8e0a-79bd6d6ec6db)
+- Image
+![image](https://github.com/user-attachments/assets/053e6ea1-efc2-49ff-b01f-9bfb122c1fd1)
+ - Charts
+![image](https://github.com/user-attachments/assets/9eedb7fe-7565-441a-a3bf-190a96a64495)
+![image](https://github.com/user-attachments/assets/47e48b6a-80a2-462c-9deb-8380a2464756)
+![image](https://github.com/user-attachments/assets/7c32a949-8778-4e03-9388-7f4e9f462055)
 
 
-![image](https://github.com/user-attachments/assets/310df030-be06-4a5c-a868-a2ac3d24b423)
 
-sgd
-![image](https://github.com/user-attachments/assets/dedc17a8-9b30-417d-8218-902b450f1a0f)
-![image](https://github.com/user-attachments/assets/19e9786f-e507-478d-ac6a-7e61200c1ba6)
-
-all 4 
-
-![image](https://github.com/user-attachments/assets/76df4734-6782-4c52-86dc-429591ed89bc)
-
-charts compared - Dashboard view
-
-![image](https://github.com/user-attachments/assets/ffdcc0c5-16d7-4f08-930c-09d575ad5451)
-
-![image](https://github.com/user-attachments/assets/feefc936-0d87-42c3-b463-23ce092bfc72)
-![image](https://github.com/user-attachments/assets/b1430057-02c9-4f64-b92b-704fa08e883a)
-![image](https://github.com/user-attachments/assets/65f0222e-ec99-40cf-ae02-8e4934b06836)
 
 -------------------------------------------------------------------------------------------------------
